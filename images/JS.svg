@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2021 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="40mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 570.54 570.54"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="25mm" height="25mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 617.1 617.1"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
@@ -15,7 +15,9 @@ viewBox="0 0 570.54 570.54"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil0" width="570.54" height="570.54" rx="71.32" ry="71.32"/>
-  <path class="fil1" d="M389.14 445.74c11.49,18.77 26.44,32.56 52.89,32.56 22.21,0 36.4,-11.1 36.4,-26.44 0,-18.38 -14.58,-24.9 -39.03,-35.59l-13.4 -5.75c-38.69,-16.48 -64.39,-37.13 -64.39,-80.78 0,-40.21 30.64,-70.82 78.52,-70.82 34.09,0 58.59,11.86 76.25,42.93l-41.75 26.81c-9.19,-16.48 -19.11,-22.98 -34.5,-22.98 -15.7,0 -25.66,9.96 -25.66,22.98 0,16.08 9.96,22.59 32.96,32.56l13.4 5.74c45.55,19.53 71.27,39.45 71.27,84.22 0,48.27 -37.92,74.71 -88.84,74.71 -49.79,0 -81.96,-23.73 -97.7,-54.83l43.57 -25.31zm-189.39 4.65c8.42,14.94 16.08,27.58 34.5,27.58 17.61,0 28.73,-6.89 28.73,-33.69l0 -182.3 53.61 0 0 183.03c0,55.51 -32.55,80.78 -80.06,80.78 -42.93,0 -67.79,-22.22 -80.43,-48.97l43.64 -26.42z"/>
+  <g id="_2818735797520">
+   <rect class="fil0" x="-0" y="-0" width="617.11" height="617.11" rx="123.42" ry="123.42"/>
+   <path class="fil1" d="M420.9 482.11c12.43,20.3 28.6,35.21 57.21,35.21 24.03,0 39.38,-12.01 39.38,-28.6 0,-19.89 -15.77,-26.93 -42.22,-38.49l-14.5 -6.22c-41.84,-17.83 -69.64,-40.16 -69.64,-87.37 0,-43.49 33.14,-76.6 84.93,-76.6 36.87,0 63.37,12.83 82.47,46.43l-45.15 28.99c-9.94,-17.83 -20.67,-24.85 -37.32,-24.85 -16.99,0 -27.75,10.77 -27.75,24.85 0,17.39 10.77,24.44 35.65,35.21l14.5 6.21c49.27,21.13 77.09,42.67 77.09,91.1 0,52.21 -41.01,80.81 -96.09,80.81 -53.86,0 -88.65,-25.66 -105.67,-59.3l47.12 -27.38zm-204.85 5.03c9.11,16.16 17.4,29.83 37.32,29.83 19.05,0 31.07,-7.45 31.07,-36.44l0 -197.18 57.99 0 0 197.96c0,60.04 -35.2,87.37 -86.59,87.37 -46.43,0 -73.32,-24.03 -86.99,-52.97l47.2 -28.58z"/>
+  </g>
  </g>
 </svg>

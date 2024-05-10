@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2021 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="40mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 76893.5 76893.5"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="25mm" height="25mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 381.23 381.23"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
@@ -19,17 +19,19 @@ viewBox="0 0 76893.5 76893.5"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil0" width="76893.5" height="76893.5" rx="9611.69" ry="9611.69"/>
-  <g id="_1796345217440">
-   <polygon id="polygon2989" class="fil1" points="59914.46,20054.79 56003.08,63873.89 38420.42,68748.37 20886.39,63880.82 16979.05,20054.79 "/>
-   <polygon id="polygon2991" class="fil2" points="52654.36,61083.62 55996.92,23638.22 38446.75,23638.22 38446.75,65022.49 "/>
-   <polygon id="polygon2993" class="fil3" points="25936.76,39892.73 26418.49,45267.59 38446.75,45267.59 38446.75,39892.73 "/>
-   <polygon id="polygon2995" class="fil3" points="38446.75,29013.46 38428.3,29013.46 24968.67,29013.46 25457.32,34388.5 38446.75,34388.5 "/>
-   <polygon id="polygon2997" class="fil3" points="38446.75,59444.64 38446.75,53852.36 38423.3,53858.52 32436.95,52242.21 32054.4,47955.4 29145.52,47955.4 26658.59,47955.4 27411.57,56394.85 38422.15,59451.56 "/>
-   <polygon id="path2999" class="fil4" points="27083.62,8144.94 33593.81,8144.94 33593.81,10867.36 29806.04,10867.36 29806.04,13589.77 33593.81,13589.77 33593.81,16312.19 27083.62,16312.19 " inkscape:connector-curvature="0"/>
-   <polygon id="path3001" class="fil4" points="34895.81,8144.94 41406,8144.94 41406,10512.11 37618.22,10512.11 37618.22,10985.58 41406,10985.58 41406,16430.41 34895.81,16430.41 34895.81,13944.83 38683.58,13944.83 38683.58,13471.36 34895.81,13471.36 " inkscape:connector-curvature="0"/>
-   <polygon id="path3003" class="fil4" points="42708,8144.94 49218.19,8144.94 49218.19,10512.11 45430.41,10512.11 45430.41,10985.58 49218.19,10985.58 49218.19,16430.41 42708,16430.41 42708,13944.83 46495.77,13944.83 46495.77,13471.36 42708,13471.36 " inkscape:connector-curvature="0"/>
-   <polygon id="polygon3005" class="fil5" points="45047.1,45267.59 44423.11,52238.75 38428.3,53856.79 38428.3,59448.87 49447.33,56394.85 49528.26,55486.74 50791.23,41336.02 50922.53,39892.73 51892.93,29013.46 38428.3,29013.46 38428.3,34388.5 46002.31,34388.5 45513.07,39892.73 38428.3,39892.73 38428.3,45267.59 "/>
+  <g id="_2818355813568">
+   <rect class="fil0" x="0" y="-0" width="381.23" height="381.23" rx="76.25" ry="76.25"/>
+   <g>
+    <polygon id="polygon2989" class="fil1" points="297.05,99.43 277.66,316.68 190.48,340.85 103.55,316.71 84.18,99.43 "/>
+    <polygon id="polygon2991" class="fil2" points="261.05,302.84 277.63,117.2 190.62,117.2 190.62,322.37 "/>
+    <polygon id="polygon2993" class="fil3" points="128.59,197.78 130.98,224.43 190.62,224.43 190.62,197.78 "/>
+    <polygon id="polygon2995" class="fil3" points="190.62,143.84 190.52,143.84 123.79,143.84 126.22,170.49 190.62,170.49 "/>
+    <polygon id="polygon2997" class="fil3" points="190.62,294.72 190.62,266.99 190.5,267.02 160.82,259.01 158.92,237.76 144.5,237.76 132.17,237.76 135.9,279.6 190.49,294.75 "/>
+    <polygon id="path2999" class="fil4" points="134.28,40.38 166.55,40.38 166.55,53.88 147.78,53.88 147.78,67.38 166.55,67.38 166.55,80.87 134.28,80.87 " inkscape:connector-curvature="0"/>
+    <polygon id="path3001" class="fil4" points="173.01,40.38 205.29,40.38 205.29,52.12 186.51,52.12 186.51,54.47 205.29,54.47 205.29,81.46 173.01,81.46 173.01,69.14 191.79,69.14 191.79,66.79 173.01,66.79 " inkscape:connector-curvature="0"/>
+    <polygon id="path3003" class="fil4" points="211.74,40.38 244.02,40.38 244.02,52.12 225.24,52.12 225.24,54.47 244.02,54.47 244.02,81.46 211.74,81.46 211.74,69.14 230.52,69.14 230.52,66.79 211.74,66.79 " inkscape:connector-curvature="0"/>
+    <polygon id="polygon3005" class="fil5" points="223.34,224.43 220.24,258.99 190.52,267.01 190.52,294.74 245.15,279.6 245.55,275.1 251.82,204.94 252.47,197.78 257.28,143.84 190.52,143.84 190.52,170.49 228.07,170.49 225.65,197.78 190.52,197.78 190.52,224.43 "/>
+   </g>
   </g>
  </g>
 </svg>
