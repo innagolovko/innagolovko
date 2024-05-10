@@ -6,7 +6,8 @@
 ⚡ Сейчас я в поиске работы.  
 💬 Моё резюме находится [здесь](https://krasnodar.hh.ru/resume/a140af70ff0d278b210039ed1f7a66716c7273)
 
-Мои навыки:
+Мои навыки:  
+![HTML](https://raw.githubusercontent.com/innagolovko/innagolovko/37ab1d4fd6b4ef963e80c0fc26a91034f330a68b/images/HTML.svg)
 
 
 📫 ***Мои контакты:*** [@innavgolovko](https://t.me/innavgolovko)
