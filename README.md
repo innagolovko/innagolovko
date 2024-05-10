@@ -7,7 +7,7 @@
 💬 Моё резюме находится [здесь](https://krasnodar.hh.ru/resume/a140af70ff0d278b210039ed1f7a66716c7273)
 
 
-📫 ***связаться со мной:*** @innavgolovko [https://t.me/innavgolovko]
+📫 ***связаться со мной:*** [@innavgolovko] (https://t.me/innavgolovko)
 
 
 
