@@ -22,9 +22,9 @@
 ![Adobe illustrator](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20illustrator.svg) 
 ![Adobe inDesign](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20InDesign.svg)
 
-📫 ***Мои контакты:*** ![@innavgolovko](https://raw.githubusercontent.com/innagolovko/innagolovko/f64278326750cbc64021f5b001358027ed90fca1/images/%40innavgolovko.svg)(https://t.me/innavgolovko) 
-🔭 ***Мои подписки:*** ![figma2html](https://t.me/figma2html)
-
-
+📫 ***Мои контакты:***  
+![@innavgolovko](https://raw.githubusercontent.com/innagolovko/innagolovko/f64278326750cbc64021f5b001358027ed90fca1/images/%40innavgolovko.svg)(https://t.me/innavgolovko)  
+🔭 ***Мои подписки:***  
+![figma2html](https://t.me/figma2html)(https://cdn4.cdn-telegram.org/file/lckdqXnSs4n8dlbbvWZt-LQFCoVbk1digeQjCOpNXmeuwPj2OXvdBxEvnPK4cTA463FskdXaiUFgKmCI1K3Wz0tnOgtoTqw5Nw93c0Z-8qkkDJN-bZyWuWyPLYuU-sdJOpRirU-pVV0ItbHwuvyAi7YrSIPil3T8uyLyZ8t3-pHFklowYSB5V88b2Yldk6UUwIPaWoXLNs-mMnBYFB6L8iCTzM0I3kUAyYqx3UBFpZhnFK6F3_TYpqHVf6RhOxkn-wVRBlIPuUWGeBiYzUJRreGvEakggDjNB2Bj3DuTC-1CwxcDEdLJesWt0HMD_MktZqVpaiS5fAlXYrn3NBNXNw.jpg)
 
  <-- 🔭 🌱 👯 🤔 💬 📫 😄 ⚡ -->
