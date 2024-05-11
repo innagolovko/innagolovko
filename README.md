@@ -24,15 +24,16 @@
 ![Adobe illustrator](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20illustrator.svg) 
 ![Adobe inDesign](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20InDesign.svg)
 
+# Подписки
+
+[![figma2html](https://github.com/innagolovko/innagolovko/blob/main/images/Figma2html.png?raw=true)](https://t.me/figma2html) 
+[![JavaScript Developers ](https://github.com/innagolovko/innagolovko/blob/main/images/JavaScript%20Developers.png?raw=true)](https://t.me/js_by_vladilen_chat) 
+
 # Контакты
 
 [![@innavgolovko](https://raw.githubusercontent.com/innagolovko/innagolovko/32a1894113c93dd8019688ee677d7878a8c8bebc/images/%40innavgolovko.svg)](https://t.me/innavgolovko) 
 [![vk](https://raw.githubusercontent.com/innagolovko/innagolovko/c33919d433d1e5d2ce2ad7bbaec1cd7aeba51500/images/vk.svg)](https://vk.com/id743544983) 
 
-# Подписки
-
-[![figma2html](https://github.com/innagolovko/innagolovko/blob/main/images/Figma2html.png?raw=true)](https://t.me/figma2html) 
-[![JavaScript Developers ](https://github.com/innagolovko/innagolovko/blob/main/images/JavaScript%20Developers.png?raw=true)](https://t.me/js_by_vladilen_chat) 
 
 
 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
