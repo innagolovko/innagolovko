@@ -17,7 +17,7 @@
 ![Wwbpack](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/Webpack.svg) 
 ![Git](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/Git.svg)  
 ![Figma](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/Figma.svg) 
-![CorelDRAW](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/CorelDRAW.svg)  
+![CorelDRAW](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/CorelDRAW.svg) 
 ![Adobe Photoshop](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20Photoshop.svg) 
 ![Adobe illustrator](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20illustrator.svg) 
 ![Adobe inDesign](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20InDesign.svg)
