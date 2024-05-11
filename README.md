@@ -11,7 +11,7 @@
 ![HTML](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/HTML.svg) 
 ![CSS](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/CSS.svg) 
 ![JS](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/JS.svg) 
-![React](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/React.svg) 
+![React](https://ru.legacy.reactjs.org/) 
 ![Node](https://raw.githubusercontent.com/innagolovko/innagolovko/f35473657544bdf5c380edf149224dcccc061042/images/Node.svg) 
 ![MongoDB](https://raw.githubusercontent.com/innagolovko/innagolovko/f35473657544bdf5c380edf149224dcccc061042/images/MongoDB.svg) 
 ![Wwbpack](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/Webpack.svg) 
