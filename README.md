@@ -15,7 +15,7 @@
 ![JS](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/JS.svg) 
 [![React](https://raw.githubusercontent.com/innagolovko/innagolovko/6b8c6adcd851d5ed3e8d72a0e598060499abae87/images/React.svg)](https://ru.legacy.reactjs.org/) 
 [![Node](https://raw.githubusercontent.com/innagolovko/innagolovko/e24f765680a2ad85e3585333e5bcf65e1c0e5601/images/Node.svg)](https://nodejs.org/en) 
-[![MongoDB](https://raw.githubusercontent.com/innagolovko/innagolovko/f35473657544bdf5c380edf149224dcccc061042/images/MongoDB.svg)](https://www.mongodb.com/) 
+[![MongoDB](https://raw.githubusercontent.com/innagolovko/innagolovko/4420cf22d27733098659fe4a9581d45c1d0286e2/images/MongoDB.svg)](https://www.mongodb.com/) 
 [![Webpack](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/Webpack.svg)](https://webpack.js.org/) 
 [![Git](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/Git.svg)](https://git-scm.com/)  
 [![Figma](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/Figma.svg)](https://www.figma.com/) 
