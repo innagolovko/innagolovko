@@ -22,8 +22,8 @@
 ![Adobe illustrator](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20illustrator.svg) 
 ![Adobe inDesign](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20InDesign.svg)
 
-
-📫 ***Мои контакты:*** [@innavgolovko](https://t.me/innavgolovko)
+📫 ***Мои контакты:*** ![@innavgolovko](https://t.me/innavgolovko) 
+🔭 ***Мои подписки:*** ![figma2html](https://t.me/figma2html)
 
 
 
