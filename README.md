@@ -6,17 +6,18 @@
 ⚡ Сейчас я в поиске работы.  
 💬 Моё резюме находится [здесь](https://krasnodar.hh.ru/resume/a140af70ff0d278b210039ed1f7a66716c7273)
 
-Мои навыки:  
+## Мои навыки:
+
 ![HTML](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/HTML.svg) 
 ![CSS]() 
 ![JS](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/JS.svg) 
-![React](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/React.svg) 
+![React](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/React.svg)  
 ![Node](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/Node.svg) 
 ![MongoDB](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/MongoDB.svg) 
 ![Wwbpack](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/Webpack.svg) 
-![Git](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/Git.svg) 
+![Git](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/Git.svg)  
 ![Figma](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/Figma.svg) 
-![CorelDRAW](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/CorelDRAW.svg) 
+![CorelDRAW](https://raw.githubusercontent.com/innagolovko/innagolovko/4ae82340dbb66bbad3b09c4b4c59885a2e5ccf1e/images/CorelDRAW.svg)  
 ![Adobe Photoshop]() 
 ![Adobe illustrator]() 
 ![Adobe inDesign]()

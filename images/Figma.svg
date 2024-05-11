@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2021 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="25mm" height="25mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 381.6 381.6"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="14.0564mm" height="14.0564mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 90.74 90.74"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
@@ -19,15 +19,13 @@ viewBox="0 0 381.6 381.6"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2818754303248">
-   <rect class="fil0" x="0" y="0" width="381.6" height="381.6" rx="76.32" ry="76.32"/>
-   <g>
-    <path class="fil1" d="M190.8 190.8c0,-18.73 15.18,-33.91 33.9,-33.91 18.73,0 33.91,15.18 33.91,33.91 0,18.73 -15.18,33.91 -33.91,33.91 -18.73,0 -33.9,-15.18 -33.9,-33.91z"/>
-    <path class="fil2" d="M122.99 258.61c0,-18.73 15.18,-33.9 33.91,-33.9l33.9 0 0 33.9c0,18.73 -15.18,33.91 -33.91,33.91 -18.73,0 -33.91,-15.18 -33.91,-33.91l0 0z"/>
-    <path class="fil3" d="M190.8 89.08l0 67.81 33.9 0c18.73,0 33.91,-15.18 33.91,-33.9 0,-18.73 -15.18,-33.91 -33.91,-33.91l-33.9 0z"/>
-    <path class="fil4" d="M122.99 122.99c0,18.73 15.18,33.9 33.91,33.9l33.9 0 0 -67.81 -33.91 0c-18.73,0 -33.91,15.18 -33.91,33.91l0 0z"/>
-    <path class="fil5" d="M122.99 190.8c0,18.73 15.18,33.91 33.91,33.91l33.9 0 0 -67.81 -33.91 -0c-18.73,0 -33.91,15.18 -33.91,33.91l0 0z"/>
-   </g>
+  <rect class="fil0" x="0" y="-0" width="90.73" height="90.73" rx="12.91" ry="12.91"/>
+  <g id="_2818691110608">
+   <path class="fil1" d="M45.37 45.37c0,-4.45 3.61,-8.06 8.06,-8.06 4.45,0 8.06,3.61 8.06,8.06 0,4.45 -3.61,8.06 -8.06,8.06 -4.45,0 -8.06,-3.61 -8.06,-8.06z"/>
+   <path class="fil2" d="M29.24 61.49c0,-4.45 3.61,-8.06 8.06,-8.06l8.06 0 0 8.06c0,4.45 -3.61,8.06 -8.06,8.06 -4.45,0 -8.06,-3.61 -8.06,-8.06l0 0z"/>
+   <path class="fil3" d="M45.37 21.18l0 16.12 8.06 0c4.45,0 8.06,-3.61 8.06,-8.06 0,-4.45 -3.61,-8.06 -8.06,-8.06l-8.06 0z"/>
+   <path class="fil4" d="M29.24 29.24c0,4.45 3.61,8.06 8.06,8.06l8.06 0 0 -16.12 -8.06 0c-4.45,0 -8.06,3.61 -8.06,8.06l0 0z"/>
+   <path class="fil5" d="M29.24 45.37c0,4.45 3.61,8.06 8.06,8.06l8.06 0 0 -16.12 -8.06 -0c-4.45,0 -8.06,3.61 -8.06,8.06l0 0z"/>
   </g>
  </g>
 </svg>
