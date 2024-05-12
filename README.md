@@ -22,7 +22,13 @@
 [![CorelDRAW](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/CorelDRAW.svg)](https://www.coreldraw.com/en/) 
 [![Adobe Photoshop](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20Photoshop.svg)](https://www.adobe.com/ru/products/photoshop.html) 
 [![Adobe illustrator](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20illustrator.svg)](https://www.adobe.com/ru/products/illustrator/free-trial-download.html) 
-[![Adobe inDesign](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20InDesign.svg)](https://www.adobe.com/ru/products/indesign.html)
+[![Adobe inDesign](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20InDesign.svg)](https://www.adobe.com/ru/products/indesign.html) 
+
+# Мои учебные проекты 
+
+Самый первый проект на GitHub ["Научиться учиться"](https://innagolovko.github.io/to-study/) 
+Второй проект адаптивной вёрстки ["Путешествия по России"](https://innagolovko.github.io/travel/) 
+Дипломная работа по созданию интерактивной страницы [Регистрация и авторизация, поиск фильмов и сохранение их в своём личном кабинете](https://my-movies.nomoredomainsmonster.ru/) 
 
 # Подписки
 
