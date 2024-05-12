@@ -18,7 +18,7 @@
 [![MongoDB](https://raw.githubusercontent.com/innagolovko/innagolovko/4420cf22d27733098659fe4a9581d45c1d0286e2/images/MongoDB.svg)](https://www.mongodb.com/) 
 [![Webpack](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/Webpack.svg)](https://webpack.js.org/) 
 [![Git](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/Git.svg)](https://git-scm.com/) 
-[![БЭМ](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/Git.svg)](https://git-scm.com/)   
+[![БЭМ](https://raw.githubusercontent.com/innagolovko/innagolovko/e8eccd01b7ed3321b0dac4c7b18c9a4254d274ef/images/%D0%91%D0%AD%D0%9C.svg)](https://ru.bem.info/)   
 [![Figma](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/Figma.svg)](https://www.figma.com/) 
 [![CorelDRAW](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/CorelDRAW.svg)](https://www.coreldraw.com/en/) 
 [![Adobe Photoshop](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20Photoshop.svg)](https://www.adobe.com/ru/products/photoshop.html) 
