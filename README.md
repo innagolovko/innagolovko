@@ -12,7 +12,7 @@
 
 [![HTML](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/HTML.svg)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics) 
 [![CSS](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/CSS.svg)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics) 
-[![БЭМ](https://raw.githubusercontent.com/innagolovko/innagolovko/e8eccd01b7ed3321b0dac4c7b18c9a4254d274ef/images/%D0%91%D0%AD%D0%9C.svg)](https://ru.bem.info/)  
+[![БЭМ](https://raw.githubusercontent.com/innagolovko/innagolovko/e8eccd01b7ed3321b0dac4c7b18c9a4254d274ef/images/%D0%91%D0%AD%D0%9C.svg)](https://ru.bem.info/) 
 ![JS](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/JS.svg) 
 [![React](https://raw.githubusercontent.com/innagolovko/innagolovko/6b8c6adcd851d5ed3e8d72a0e598060499abae87/images/React.svg)](https://ru.legacy.reactjs.org/) 
 [![Node](https://raw.githubusercontent.com/innagolovko/innagolovko/e24f765680a2ad85e3585333e5bcf65e1c0e5601/images/Node.svg)](https://nodejs.org/en) 
