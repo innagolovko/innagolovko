@@ -36,7 +36,9 @@
 
 [![figma2html](https://github.com/innagolovko/innagolovko/blob/main/images/Figma2html.png?raw=true)](https://t.me/figma2html) 
 [![JavaScript Developers ](https://github.com/innagolovko/innagolovko/blob/main/images/JavaScript%20Developers.png?raw=true)](https://t.me/js_by_vladilen_chat) 
-[![GPT4Telegram ](https://github.com/innagolovko/innagolovko/blob/main/images/GPT4Telegram.png?raw=true)](https://t.me/gpt4telegram) 
+[![Linkedin](https://github.com/innagolovko/innagolovko/blob/main/images/GPT4Telegram.png?raw=true)](https://t.me/gpt4telegram)
+[![CodeRun](https://github.com/innagolovko/innagolovko/blob/main/images/GPT4Telegram.png?raw=true)](https://t.me/gpt4telegram)
+[![LeetCode](https://github.com/innagolovko/innagolovko/blob/main/images/GPT4Telegram.png?raw=true)](https://t.me/gpt4telegram) 
 
 # Контакты
 
