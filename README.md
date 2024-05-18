@@ -36,9 +36,9 @@
 
 [![figma2html](https://github.com/innagolovko/innagolovko/blob/main/images/Figma2html.png?raw=true)](https://t.me/figma2html) 
 [![JavaScript Developers ](https://github.com/innagolovko/innagolovko/blob/main/images/JavaScript%20Developers.png?raw=true)](https://t.me/js_by_vladilen_chat) 
-[![Linkedin](https://raw.githubusercontent.com/innagolovko/innagolovko/7ddcf7938ff00769e5afefb033f990b5e78a00cc/images/Linkedin.svg)](https://ru.linkedin.com/)
-[![CodeRun](https://raw.githubusercontent.com/innagolovko/innagolovko/7ddcf7938ff00769e5afefb033f990b5e78a00cc/images/CodeRun.svg)](https://coderun.yandex.ru/catalog)
-[![LeetCode](https://raw.githubusercontent.com/innagolovko/innagolovko/7ddcf7938ff00769e5afefb033f990b5e78a00cc/images/LeetCode.svg)](https://leetcode.com/) 
+[![Linkedin](https://raw.githubusercontent.com/innagolovko/innagolovko/8dbbd21133f5dc08027deed7b6c79c00ff4fdded/images/Linkedin.svg)](https://ru.linkedin.com/)
+[![CodeRun](https://raw.githubusercontent.com/innagolovko/innagolovko/8dbbd21133f5dc08027deed7b6c79c00ff4fdded/images/CodeRun.svg)](https://coderun.yandex.ru/catalog)
+[![LeetCode](https://raw.githubusercontent.com/innagolovko/innagolovko/8dbbd21133f5dc08027deed7b6c79c00ff4fdded/images/LeetCode.svg)](https://leetcode.com/) 
 
 # Контакты
 
