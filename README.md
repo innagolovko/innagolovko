@@ -26,9 +26,9 @@
 
 # Мои учебные проекты
 
-|  Вёрстка     | Адаптив  | javaScript | Диплом | 
-|  :-----:     |:-------: | :--------: | :----: |
-| Научиться учиться | Путешествия по России | Любимое дело | Портфолио |
+|  Вёрстка     | Адаптив  | javaScript | React  | Диплом | 
+|  :-----:     |:-------: | :--------: | :----: | :----:
+| [Научиться учиться](https://innagolovko.github.io/to-study/) | [Путешествия по России](https://innagolovko.github.io/travel/) | [Смена пороля](https://innagolovko.github.io/change-password/) | [Любимое дело] | [Портфолио](https://my-movies.nomoredomainsmonster.ru/) |
 
 
 - Самый первый проект на GitHub [Научиться учиться](https://innagolovko.github.io/to-study/)  
