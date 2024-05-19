@@ -43,11 +43,11 @@
 
 ## Контакты
 
-[![@innavgolovko](https://raw.githubusercontent.com/innagolovko/innagolovko/32a1894113c93dd8019688ee677d7878a8c8bebc/images/%40innavgolovko.svg)](https://t.me/innavgolovko) 
+[![@innavgolovko](https://raw.githubusercontent.com/innagolovko/innagolovko/32a1894113c93dd8019688ee677d7878a8c8bebc/images/%40innavgolovko.svg)](https://t.me/innavgolovko)
+:blush: 
 [![vk](https://raw.githubusercontent.com/innagolovko/innagolovko/c33919d433d1e5d2ce2ad7bbaec1cd7aeba51500/images/vk.svg)](https://vk.com/id743544983) 
 
 
 
->>> 
-
+>>>
  🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 💻
