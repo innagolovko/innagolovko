@@ -39,7 +39,9 @@
 [![JavaScript Developers ](https://github.com/innagolovko/innagolovko/blob/main/images/JavaScript%20Developers.png?raw=true)](https://t.me/js_by_vladilen_chat) 
 [![Linkedin](https://raw.githubusercontent.com/innagolovko/innagolovko/8dbbd21133f5dc08027deed7b6c79c00ff4fdded/images/Linkedin.svg)](https://ru.linkedin.com/)
 [![CodeRun](https://raw.githubusercontent.com/innagolovko/innagolovko/8dbbd21133f5dc08027deed7b6c79c00ff4fdded/images/CodeRun.svg)](https://coderun.yandex.ru/catalog)
-[![LeetCode](https://raw.githubusercontent.com/innagolovko/innagolovko/8dbbd21133f5dc08027deed7b6c79c00ff4fdded/images/LeetCode.svg)](https://leetcode.com/) 
+[![LeetCode](https://raw.githubusercontent.com/innagolovko/innagolovko/8dbbd21133f5dc08027deed7b6c79c00ff4fdded/images/LeetCode.svg)](https://leetcode.com/)  
+[Cписок каналов и чатов об IT](https://github.com/goq/telegram-list#%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D0%9F%D0%9E)  
+[Про IT](https://qna.habr.com/q/472730)
 
 ## Контакты 📫
 
