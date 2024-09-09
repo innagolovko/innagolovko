@@ -29,7 +29,7 @@
 
 ## Мои учебные проекты 🌱
 
-|  Вёрстка  |  Адаптив  | Адаптив | React  | Диплом | 
+|  Вёрстка  |  Адаптив  | Адаптив | React  | 
 |  :-----:  | :-------: | :--------: | :----: | :----: |
 | [Научиться учиться](https://innagolovko.github.io/to-study/) | [Путешествия по России](https://innagolovko.github.io/travel/) | [Смена пороля](https://innagolovko.github.io/change-password/) | [Место](https://github.com/mybenim/react-mesto-api-full-gha) | [Портфолио](https://my-movies.nomoredomainsmonster.ru/) |
 
