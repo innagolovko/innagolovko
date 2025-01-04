@@ -27,11 +27,11 @@
 [![Adobe illustrator](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20illustrator.svg)](https://www.adobe.com/ru/products/illustrator/free-trial-download.html) 
 [![Adobe inDesign](https://raw.githubusercontent.com/innagolovko/innagolovko/72d9342730c9633429e5cea1b31a2b58f623a178/images/Adobe%20InDesign.svg)](https://www.adobe.com/ru/products/indesign.html) 
 
-## Мои учебные проекты 🌱
+## Мои проекты 🌱
 
 |  Вёрстка  |  Адаптив  | Адаптив | Адаптив | React  | 
 |  :-----:  | :-------: | :--------: | :------: | :----: |
-| [Научиться учиться](https://innagolovko.github.io/to-study/) | [Путешествия по России](https://innagolovko.github.io/travel/) | [Смена пороля](https://innagolovko.github.io/change-password/) | [dry-cleaning](https://innagolovko.github.io/dry-cleaning/) | [Место](https://github.com/mybenim/react-mesto-api-full-gha) |
+| [Научиться учиться](https://innagolovko.github.io/to-study/) | [Путешествие по России](https://innagolovko.github.io/travel/) | [Смена пороля](https://innagolovko.github.io/change-password/) | [dry-cleaning](https://innagolovko.github.io/dry-cleaning/) | [Место](https://github.com/mybenim/react-mesto-api-full-gha) |
 
 ## Подписки 🔭
 
